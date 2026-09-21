@@ -62,8 +62,3 @@ router.delete(
 
 export default router;
 
-
-
-// manager - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YWFjNTY1ZTY2M2FiZDQwNjEzNjlmODgiLCJyb2xlIjoiTUFOQUdFUiIsImlhdCI6MTc4OTcxNDg1MiwiZXhwIjoxNzg5ODAxMjUyfQ.YEhQaqsm1rkoqEQ9FAiRQAwqikPuE888x4q12LMeSn8
-// admin -- eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YWFjNTcyNDY2M2FiZDQwNjEzNjlmODkiLCJyb2xlIjoiQURNSU4iLCJpYXQiOjE3ODk3MTU0MzMsImV4cCI6MTc4OTgwMTgzM30.qqnGtcgbNdwC55UgcavbtvzAY_v1q_kR_26b3NVhNn4
-// ABC ID -- 6aace0391126e05e1f48d03b
